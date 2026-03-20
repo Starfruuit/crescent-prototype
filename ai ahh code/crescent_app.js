@@ -9,7 +9,7 @@ const STATE = {
   settings: {
     dyslexic: false,
     extra: false,
-    simpleAnimations: false,
+    simpleAnimations: true,
     longWeekendCountry: 'US',
     textSize: 2,      // 0–4 maps to xs/sm/md/lg/xl
     theme: 'dark',
